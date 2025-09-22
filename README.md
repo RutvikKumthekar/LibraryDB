@@ -1,9 +1,13 @@
 Entities & Relationships
 
 Entities (Tables):
+
 Books
+
 Authors
+
 Members
+
 Loans
 
 Relationships:
